@@ -1,9 +1,5 @@
-{
-"name":"YuanTuBiao", 
-"description":"网站原图标", 
-"icons":
-[
-{"name":"1", "url":"https://github.com/GrapeBranch/QuantumltX-Joel/blob/4ce25049f36da7deddeeb00ba9acea99c78c729c/TuBiao/miHoYo.png"}, 
-{"name":"2", "url":"https://github.com/GrapeBranch/QuantumltX-Joel/blob/7380ec5b455114fcf40eb977b1f1ec3a5a3178d1/TuBiao/miyun.png"},
+{"name":"YuanTuBiao", "description":"网站原图标", "icons":[
+{"name":"Flower", "url":"https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Flower.png"},
+{"name":"Maying", "url":"https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Maying.png"}, 
 ]
 }
